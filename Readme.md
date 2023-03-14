@@ -1,3 +1,3 @@
 # Ayush Portfolio
 
-Hey! Welcome to my portflio.
+Hey! Welcome to my portfolio.
